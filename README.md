@@ -3,10 +3,9 @@ ROS2のログメッセージをパース処理するPythonプログラム
 
 
 ## 必要環境
-- Python3系 (`3.10.0`で動作確認済み)
+- Python3系 (`3.10.0`で動作確認済み)(pyparsingが動かせるバージョンであれば構いません)
 - pyparsing 3.0 以上
 ```sh
-# example
 pip install pyparsing==3.0.0
 ```
 
